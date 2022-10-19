@@ -30,7 +30,7 @@ Create/Upload your code in folder following the convention `Add Code Here`
 Javascript/<YOUR-USERNAME>/<YOUR-FILERNAME>.js
 ```
 ```
-PYTHON/<YOUR-USERNAME>/<YOUR-FILERNAME>.py
+Python/<YOUR-USERNAME>/<YOUR-FILERNAME>.py
 ```
 If your language folder does not exist, feel free to create the same.
 
