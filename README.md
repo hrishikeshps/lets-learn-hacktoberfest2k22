@@ -27,13 +27,10 @@ Create/Upload your code in folder following the convention `Add Code Here`
 - Below is `an example` to add file properly
 - You can follow up `any languages`
 ```
-Javascript/<YOUR-FILERNAME>.js
+Javascript/<YOUR-USERNAME>/<YOUR-FILERNAME>.js
 ```
 ```
-PYTHON/<YOUR-FILERNAME>.py
-```
-```
-C++/<YOUR-FILERNAME>.cpp
+Python/<YOUR-USERNAME>/<YOUR-FILERNAME>.py
 ```
 If your language folder does not exist, feel free to create the same.
 
