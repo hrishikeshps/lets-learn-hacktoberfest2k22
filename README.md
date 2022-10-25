@@ -57,6 +57,25 @@ keep in mind that repo has hacktoberfest topic..
 To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 '''
 ```
-<tr><td align="center"><a href="https://github.com/hrishikeshps"><kbd><img src="https://avatars3.githubusercontent.com/hrishikeshps?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Hrishikesh Sharma</b></sub></a><br /></td>
+
+<h1 align=center> Project Maintainer ❤️ </h1>
+<h1 align=center>  </h1>
+<p align="center">
+<table align="center">
+  <tbody><tr>
+     <td align="center"><a href="https://github.com/hrishikeshps"><img alt="" src="https://avatars.githubusercontent.com/hrishikeshps" width="125px;"><br><sub><b> Project Maintainer ❤️ </b></sub></a><br></td> </a></td>
+
+</tbody></table>
+
+
+<h1 align=center> OUR VALUABLE CONTRIBUTORS✨ </h1>
+<p align="center">
+  
+	
+<a href="https://github.com/hrishikeshps/lets-learn-hacktoberfest2k22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hrishikeshps/lets-learn-hacktoberfest2k22" />
+</a>
+</p>
+<h3 align="center"> Happy Coding 👨‍💻 </h3>
 
 </tr>
